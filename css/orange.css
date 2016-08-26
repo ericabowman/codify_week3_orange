@@ -1,0 +1,73 @@
+* {
+	margin:0;
+	padding:0;	
+}
+
+body {
+	font-family: 'Crimson Text', sans-serif;
+	
+}
+
+/** NAVIGATION **/
+nav {	
+	background-color: FE7E00;
+	height: 45px;
+	min-width: 100%;
+
+}
+
+nav img {
+	margin: 12px 18px;
+	padding: 10px 30px;
+}
+
+
+nav ul {
+	float: right;
+	list-style: ;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 5px;
+	padding: 5px;
+
+	}
+
+nav a{
+	color: #FFF;
+	text-decoration: none;
+	text-tranform: uppercase;
+}
+
+	}
+
+form {
+	float: right;
+	height: 0 5px;
+	background-color: F0F0EE;
+
+	}
+
+form input {
+
+
+}
+
+[placeholder]
+
+fa-search
+
+}
+#cta> div: first-child {
+	width: ?;
+	float: left;
+}
+
+
+#cta> div: last-child {
+	width: ?;
+	float: left;
+}
+
+#cta button: first
