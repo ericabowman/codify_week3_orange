@@ -6,11 +6,25 @@
 body {
 	font-family: 'Crimson Text', sans-serif;
 	
+	
+}
+
+a {
+	color: #336699;
+	text-decoration: none;
+}
+
+header,
+section {	
+	display: block;
+	margin: 30px auto;
+	width: 825px;
 }
 
 /** NAVIGATION **/
+
 nav {	
-	background-color: FE7E00;
+	background-color: FD7D00;
 	height: 45px;
 	min-width: 100%;
 
