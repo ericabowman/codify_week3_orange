@@ -6,7 +6,6 @@
 body {
 	font-family: 'Crimson Text', sans-serif;
 	
-	
 }
 
 a {
@@ -24,26 +23,26 @@ section {
 /** NAVIGATION **/
 
 nav {	
-	background-color: FD7D00;
-	height: 45px;
+	background-color: #FD7D00;
+	height: 70px;
 	min-width: 100%;
 
 }
 
 nav img {
-	margin: 12px 18px;
-	padding: 10px 30px;
+	margin: 5px 5px;
+	padding: 5px 5px;
 }
 
 
 nav ul {
 	float: right;
-	list-style: ;
+	list-style:  
 }
 
 nav li {
 	display: inline-block;
-	margin: 0 5px;
+	margin: 25px 5px;
 	padding: 5px;
 
 	}
@@ -54,19 +53,41 @@ nav a{
 	text-tranform: uppercase;
 }
 
-	}
+/* Form */
 
 form {
 	float: right;
-	height: 0 5px;
+	height: 0 20px;
 	background-color: F0F0EE;
 
 	}
 
 form input {
 
+}
+
+.orange-wrapper {
+	color: #222222;
+	float: right;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	height: 385px;
+	line-height: 27px;
+	width: 45%;
+
 
 }
+
+/* Footer */
+
+footer {
+
+	background-color: #7ACCC8;
+	height: 70px;
+	min-width: 100%;
+
+}
+
 
 [placeholder]
 
