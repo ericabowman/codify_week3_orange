@@ -80,13 +80,16 @@ form input {
 
 /* Footer */
 
+
 footer {
-
-	background-color: #7ACCC8;
-	height: 70px;
-	min-width: 100%;
-
+  background: #7ACCC8;
+  height: 70px;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
 }
+
 
 
 [placeholder]
